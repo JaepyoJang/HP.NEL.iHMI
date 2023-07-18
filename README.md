@@ -22,7 +22,8 @@ iHMI code
   
   - Object and component settings
     Avatar`s left hand was located above the ball and capsule collider component was added with same size of finger at the last joint of left hand. The code in 'unity code' folder 'touchfeedback1.cs' to 'touchfeedback5.cs' was inserted in each last joint object of avatar in order of thumb to little finger. Text 1 to 5, Text (legacy) object was inserted in each element.
-    'motion_controller.cs' in 'unity code' folder was added in avatar object. Each parameters from Flex 1 to 5 and and Bend 1 to 5 was measured while calibration process. And Text 1 to 5, Text (legacy) object was inserted. In 'Moving' elements, second joint and third joint of each finger was inserted.
+    'motion_controller.cs' in 'unity code' folder was added in avatar object. Each parameters from Flex 1 to 5 and and Bend 1 to 5 was 
+ measured while calibration process. And Text 1 to 5, Text (legacy) object was inserted. In 'Moving' elements, second joint and third joint of each finger was inserted.
 
    3) Arduino mega 2560    
 final_demo_v1.ino should be uploaded on arduino.
